@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abraham</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/ZeusMadeIt](github.com/ZeusMadeIt)
+- 👨‍💻 All of my projects are available at [github.com/ZeusMadeIt](github.com/zeusmadeit)
 
 - 📫 How to reach me **codexapp44@gmail.com**
 
-- 📄 Know about my experiences [github.com/ZeusMadeIt](github.com/ZeusMadeIt)
+- 📄 Know about my experiences [github.com/ZeusMadeIt](github.com/zeusmadeit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
