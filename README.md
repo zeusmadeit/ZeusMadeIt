@@ -24,16 +24,9 @@
   <p>I'm always excited about new opportunities to collaborate and learn from fellow developers. Whether it's brainstorming ideas, contributing to open-source projects, or tackling challenging problems together, count me in!</p>
   <p>Feel free to explore my repositories and don't hesitate to reach out. Let's create something awesome together! 🚀</p>
 
-  <h2>Github Stats:</h2>
+  <h2>My Github Stats 🔥</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeusmadeit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="zeusmadeit's GitHub Stats" />
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zeusmadeit&theme=vue-dark" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeusmadeit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="zeusmadeit's GitHub Stats" />
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zeusmadeit" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeusmadeit&layout=compact&langs_count=8&card_width=320" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeusmadeit&theme=tokyonight&hide_border=true" alt="zeusmadeit's GitHub Stats" />
