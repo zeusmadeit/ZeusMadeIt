@@ -18,7 +18,7 @@
   <p>🔗 Connect with me on <a href="http://www.z-mi.tech">LinkedIn</a> to stay updated on my latest projects and musings.</p>
   <p>📫 Drop me an email at <a href="mailto:mail@email.com">your@email.com</a> if you'd like to collaborate or just chat about all things tech.</p>
   <p>🌐 Visit my personal website <a href="http://www.z-mi.tech">www.z-mi.tech</a> to learn more about my journey and projects.</p>
-  <p> Follow me on X at <a href="https://twitter.com/i_am_zmi" target="blank">I_AM_ZMI</a> and key into the conversation</p>
+  <p> Follow me on X <a href="https://twitter.com/i_am_zmi" target="blank">@I_AM_ZMI</a> and key into the conversation</p>
 
   <h2>Let's Collaborate!</h2>
   <p>I'm always excited about new opportunities to collaborate and learn from fellow developers. Whether it's brainstorming ideas, contributing to open-source projects, or tackling challenging problems together, count me in!</p>
