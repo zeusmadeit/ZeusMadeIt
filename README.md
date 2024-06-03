@@ -27,6 +27,6 @@
   <h2>My Github Stats 🔥</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=zeusmadeit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="zeusmadeit's GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeusmadeit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="zeusmadeit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeusmadeit&theme=tokyonight&show_icons=true&hide_border=true" alt="zeusmadeit's GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeusmadeit&theme=tokyonight&hide_border=true" alt="zeusmadeit's GitHub Stats" />
