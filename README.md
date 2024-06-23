@@ -17,7 +17,7 @@
   <h2>Get in Touch</h2>
   <p>🔗 Connect with me on <a href="https://www.linkedin.com/in/abraham-paul-16317a235">LinkedIn</a> to stay updated on my latest projects and musings.</p>
   <p>📫 Drop me an email at <a href="mailto:codexapp44@gmail.com">Mail Me</a> if you'd like to collaborate or just chat about all things tech.</p>
-  <p>🌐 Visit my personal website <a href="http://www.z-mi.tech">www.z-mi.tech</a> to learn more about my journey and projects.</p>
+  <p>🌐 Visit my personal website <a href="https://www.zygnix.com.ng/portfolio">www.zygnix.com.ng</a> to learn more about my journey and projects.</p>
   <p>𝕏  Follow me on X <a href="https://twitter.com/i_am_zmi" target="blank">@I_AM_ZMI</a> and key into the conversation</p>
 
   <h2>Let's Collaborate!</h2>
