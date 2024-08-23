@@ -20,10 +20,6 @@
   <p>🌐 Visit my <a href="https://www.zygnix.com.ng/portfolio">personal portfolio</a> to learn more about my journey and projects.</p>
   <p>𝕏  Follow me on X <a href="https://twitter.com/i_am_zmi" target="blank">@I_AM_ZMI</a> and key into the conversation</p>
 
-  <h2>Let's Collaborate!</h2>
-  <p>I'm always excited about new opportunities to collaborate and learn from fellow developers. Whether it's brainstorming ideas, contributing to open-source projects, or tackling challenging problems together, count me in!</p>
-  <p>Feel free to explore my repositories and don't hesitate to reach out. Let's create something awesome together! 🚀</p>
-
   <h2>My Github Stats 🔥</h2>
   <div style="display: 'flex', flex-direction: 'column'">
     <img src="https://github-readme-stats.vercel.app/api?username=zeusmadeit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="zeusmadeit's GitHub Stats" />
