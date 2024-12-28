@@ -20,10 +20,3 @@
   <p>🌐 Visit my <a href="https://www.zygnix.com.ng/portfolio">personal portfolio</a> to learn more about my journey and projects.</p>
   <p>𝕏  Follow me on X <a href="https://twitter.com/i_am_zmi" target="blank">@I_AM_ZMI</a> and key into the conversation</p>
 
-  <h2>My Github Stats 🔥</h2>
-  <div style="display: 'flex', flex-direction: 'column'">
-    <img src="https://github-readme-stats.vercel.app/api?username=zeusmadeit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="zeusmadeit's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeusmadeit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="zeusmadeit's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeusmadeit&theme=tokyonight&hide_border=true" alt="zeusmadeit's GitHub Stats" />
-  </div>
-  
