@@ -12,6 +12,6 @@
     I'm deeply fascinated by the intersection of technology and creativity, and I strive to bring that enthusiasm to everything I work on.</p>
 
   <h2>Get in Touch</h2>
-  <p>🔗 Connect with me on <a href="https://www.linkedin.com/in/abraham-paul-16317a235">LinkedIn</a> to stay reach out to me</p>
+  <p>🔗 Connect with me on <a href="https://www.linkedin.com/in/abraham-paul-16317a235">LinkedIn</a> to stay in touch</p>
   <p>𝕏  Follow me on X <a href="https://twitter.com/i_am_zmi" target="blank">@I_AM_ZMI</a> and key into the conversation</p>
 
